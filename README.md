@@ -1,2 +1,7 @@
 # reactjs-covid19-graph
-Run ### `npm install` && ### `npm start`
+
+### `npm install` 
+Install dependencies
+
+### `npm start`
+Run server on [http://localhost:3000](http://localhost:3000)
